@@ -1,4 +1,4 @@
-package code11_2;
+package code11_02;
 
 public abstract class Character {
 	String name;

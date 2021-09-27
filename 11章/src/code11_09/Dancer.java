@@ -1,4 +1,4 @@
-package code11_9;
+package code11_09;
 
 public class Dancer extends Character {
 	public void dance() {

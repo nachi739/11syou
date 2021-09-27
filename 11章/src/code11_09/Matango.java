@@ -1,4 +1,4 @@
-package code11_9;
+package code11_09;
 
 public class Matango {
 	int hp;
